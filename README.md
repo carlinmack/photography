@@ -5,6 +5,8 @@
 | ![image](_7Final.jpg) | ![image](_8Final.jpg) | ![image](_9Final.jpg) |
 | ![image](_10Final.jpg) | ![image](_11Final.jpg) | ![image](_12Final.jpg) |
 
+Contact me at carlinmack@pm.me if you want the original, non watermarked images
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
